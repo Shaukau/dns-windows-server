@@ -1,5 +1,5 @@
 La configuration de la zone directe du serveur :
-
+![https://github.com/Shaukau/dns-windows-server/blob/main/resource/config-alias.png](https://github.com/Shaukau/dns-windows-server/blob/main/resource/config-alias.png)
 ![https://github.com/Shaukau/dns-windows-server/blob/main/resource/config_host.png](https://github.com/Shaukau/dns-windows-server/blob/main/resource/config_host.png)
 
 La configuration de la zone indirecte du serveur:
